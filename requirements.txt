@@ -1,3 +1,7 @@
+pip>=25.1.1
+setuptools>=68.0.0
+wheel
+
 tensorflow==2.15.0
 pandas 
 numpy 
