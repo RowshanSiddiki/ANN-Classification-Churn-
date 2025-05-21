@@ -3,9 +3,9 @@ setuptools>=68.0.0
 wheel
 
 tensorflow==2.15.0
-pandas 
-numpy 
-scikit-learn
+numpy==1.24.3
+pandas==1.5.3
+scikit-learn==1.2.2
+matplotlib==3.7.1
 tensorboard
-matplotlib
 streamlit
